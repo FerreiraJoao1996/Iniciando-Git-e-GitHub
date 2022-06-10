@@ -55,7 +55,7 @@ Comandos básicos do terminal Windows:
 ​		
 
 		* git init = Iniciar
-		* git add = adicionar arquivos
+		* git add *= adicionar arquivos
 		* git commit -m "MENSAGEM" = criar um commit
 		* git status = status atual do diretório (untracked, unmodified, modified, staged)
 		* git clone + caminho copiado = copiar diretório
